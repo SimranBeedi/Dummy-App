@@ -1,0 +1,11 @@
+install python
+set enironment
+
+pip install Flask
+pip install flask_mysqldb
+pip install flask_mail
+ pip install flask_bcrypt
+pip install Flask-WTF
+pip install stripe
+pip install mysql-connector-python
+pip install Flask-Mail --upgrade
